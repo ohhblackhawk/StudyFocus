@@ -1,7 +1,13 @@
 # StudyFocus
-![Studyfocus](studyfocus.png)
 
 StudyFocus is an academic group project that makes use of Agile Development to develop an android app, which combines both a To-Do List and a Pomodoro Timer, aimed at professionals to stay productive and manage their time.
+![Studyfocus](studyfocus.png){: height="100px"}
+
+## Demo Video
+App is demonstrated on a
+* `Virtual Emulation – Pixel 7 (Android 14)`
+* `SDK 34`
+Click to see the [Demo](https://youtu.be/GMcm7HWZs54)
 
 ## Key Features
 ### To-Do List
@@ -17,9 +23,4 @@ StudyFocus is an academic group project that makes use of Agile Development to d
 * Long Break 
 * Customisable Focus and Study Timer.
 
-## Demo Video
-App is demonstrated on a
-* `Virtual Emulation – Pixel 7 (Android 14)`
-* `SDK 34`
-Click to see the [Demo](https://youtu.be/GMcm7HWZs54)
 
